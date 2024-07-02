@@ -1,4 +1,6 @@
 .Product {
     border: 2px solid white;
     background-color: red;
+    margin: 20px;
+    padding: 20px;
 }
